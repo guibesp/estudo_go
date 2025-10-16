@@ -1,1 +1,2 @@
-teste
+repo destinado para meus estudos em GO
+meu objetivo: me aprofundar em software para me especializar na área de data plataform engineering, visando tanto o lado de software quanto de dados, o qual ja tenho um conhecimento legal
